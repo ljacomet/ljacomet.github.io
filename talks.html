@@ -1,0 +1,48 @@
+---
+layout: layout
+title: Talks
+---
+
+<div class="container">
+    <h3>Talks</h3>
+      <div class="panel panel-default">
+        <div class="panel-body">
+            {% for talk in site.talks reversed %}
+                <div class="row">
+                     <div class="col-sm-3 col-md-3 col-lg-3">
+                         <h5 style="text-align: right">
+                             {{ talk.date | date: "%B %e, %Y" }}
+                         </h5>
+                     </div>
+                     <div class="col-sm-6 col-md-6 col-lg-6">
+                         <h5 style="text-align: left">
+                            <strong>{{ talk.title }}</strong>
+                        </h5>
+                     </div>
+                     <div class="col-sm-3 col-md-3 col-lg-3">
+                        <h5 style="text-align: left">
+                           <a href="">{{ talk.event-name }}</a>
+                       </h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 col-md-6 col-lg-6 col-sm-offset-3 col-md-offset-3 col-lg-offset-3">
+                        {{ talk.content }}
+                    </div>
+                    <div class="col-sm-3 col-md-3 col-lg-3">
+                        <h6 style="text-align: left">
+                            <ul>
+                                {% if talk.recording %}
+                                <li><a href="{{ talk.recording }}">Recording</a></li>
+                                {% endif %}
+                                {% if talk.slides %}
+                                <li><a href="{{ talk.slides | relative_url }}">Rendered slides</a></li>
+                                {% endif %}
+                            </ul>
+                        </h6>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+      </div>
+    </div>

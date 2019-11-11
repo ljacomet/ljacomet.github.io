@@ -9,6 +9,10 @@ plugins: [jekyll-paginate]
 port: 3000
 safe: true
 
+collections:
+  talks:
+    sort_by: date
+
 
 # edit here to achieve your personal greatness
 url: https://ljacomet.github.io/
