@@ -1,0 +1,27 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://ljacomet.github.io/
+baseurl: /
+title: Louis Jacomet
+author: Louis Jacomet
+description: Personal blog and resume
+avatar: blog_head.png
+#email: yourname@email.com
+github: ljacomet
+twitter: ljacomet
+linkedin: ljacomet
+stackoverflow: users/18591/louis-jacomet
+
+asciidoc: {}
+asciidoctor: {}
