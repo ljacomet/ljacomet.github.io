@@ -1,6 +1,7 @@
 ---
 title: Why Gradle?
-slides: brujug-why-gradle
+repository: https://github.com/ljacomet/brujug-why-gradle
+slides: https://ljacomet.github.io/brujug-why-gradle
 event-name: BruJUG
 event-url: https://www.meetup.com/BruJUG/
 ---

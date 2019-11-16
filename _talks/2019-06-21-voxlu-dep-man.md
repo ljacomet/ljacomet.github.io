@@ -1,6 +1,7 @@
 ---
 title: Gestion de dépendances en pratique avec Gradle 5
-slides: voxxed-lux-gestion-deps
+repository: https://github.com/ljacomet/voxxed-lux-gestion-deps
+slides: https://ljacomet.github.io/voxxed-lux-gestion-deps
 recording: https://www.youtube.com/watch?v=IMw9eQ-O9nI
 event-name: Voxxed Days Luxembourg
 event-url: https://voxxeddays.com/luxembourg/

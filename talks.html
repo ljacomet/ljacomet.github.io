@@ -17,11 +17,14 @@ title: Talks
                      <div class="col-sm-6 col-md-6 col-lg-6">
                          <h5 style="text-align: left">
                             <strong>{{ talk.title }}</strong>
+                            {% if talk.co-speaker %}
+                            with {{ talk.co-speaker }}
+                            {% endif %}
                         </h5>
                      </div>
                      <div class="col-sm-3 col-md-3 col-lg-3">
                         <h5 style="text-align: left">
-                           <a href="">{{ talk.event-name }}</a>
+                           <a href="{{ talk.event-url }}">{{ talk.event-name }}</a>
                        </h5>
                     </div>
                 </div>
@@ -36,7 +39,10 @@ title: Talks
                                 <li><a href="{{ talk.recording }}">Recording</a></li>
                                 {% endif %}
                                 {% if talk.slides %}
-                                <li><a href="{{ talk.slides | relative_url }}">Rendered slides</a></li>
+                                <li><a href="{{ talk.slides }}">Slides</a></li>
+                                {% endif %}
+                                {% if talk.repository %}
+                                <li><a href="{{ talk.repository }}">Repository</a></li>
                                 {% endif %}
                             </ul>
                         </h6>
