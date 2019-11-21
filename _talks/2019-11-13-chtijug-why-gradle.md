@@ -1,5 +1,6 @@
 ---
 title: Pourquoi Gradle?
+recording: https://www.youtube.com/watch?v=KAr28fysEDA
 repository: https://github.com/ljacomet/why-gradle-chtijug
 slides: https://ljacomet.github.io/why-gradle-chtijug
 event-name: Ch'ti JUG
