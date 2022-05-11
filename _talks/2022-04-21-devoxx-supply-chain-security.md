@@ -1,6 +1,7 @@
 ---
 title: Protéger son organisation des attaques par le système de build
 slides: assets/files/protecting-attacks-build.pdf
+recording: https://www.youtube.com/watch?v=1wEhv_bievQ
 event-name: Devoxx France
 event-url: https://cfp.devoxx.fr/2022/index.html
 ---

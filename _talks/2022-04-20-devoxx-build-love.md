@@ -3,6 +3,7 @@ title: Donnez de l’amour à votre build, il vous le rendra !
 co-speaker: Paul Merlin
 repository: https://github.com/eskatos/gradle-build-love
 slides: https://eskatos.github.io/gradle-build-love/
+recording: https://www.youtube.com/watch?v=kOOChdmFdxw
 event-name: Devoxx France
 event-url: https://cfp.devoxx.fr/2022/index.html
 ---
