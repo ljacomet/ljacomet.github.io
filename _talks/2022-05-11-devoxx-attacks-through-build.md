@@ -1,6 +1,7 @@
 ---
 title: Protecting your organization against attacks via the build system
 slides: assets/files/protecting-attacks-build-uk.pdf
+recording: https://www.youtube.com/watch?v=2q_ozKsPpmU
 event-name: Devoxx UK 2022
 event-url: https://www.devoxx.co.uk/
 ---
