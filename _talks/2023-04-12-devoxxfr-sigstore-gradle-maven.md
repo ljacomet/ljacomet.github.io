@@ -3,6 +3,7 @@ title: Sécurité de la chaîne logicielle avec Sigstore
 co-speaker: Hervé Boutemy
 repository: https://github.com/ljacomet/sigstore-devoxx
 slides: assets/files/devoxxfr-sigstore-maven-gradle.pdf
+recording: https://www.youtube.com/watch?v=2kooPqDguyw
 event-name: Devoxx France
 event-url: https://cfp.devoxx.fr/2023/talks
 ---
