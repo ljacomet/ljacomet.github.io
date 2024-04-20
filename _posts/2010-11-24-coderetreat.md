@@ -14,7 +14,9 @@ tags:
 Saturday November 6th, I attended the (first?) Belgian [Coderetreat](https://www.coderetreat.org/) facilitated by [Corey Haines](https://twitter.com/coreyhaines) and organized by [AGILEMinds](https://twitter.com/agileminds).
 
 Since reading about coding dojos, coding katas and other code practices advocated by the [software craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship) movement, I have been intrigued in trying these out.
-While I attended [coding](http://www.bejug.org/confluenceBeJUG/display/BeJUG/JSR-311+REST+Dojo) [dojos](http://www.bejug.org/confluenceBeJUG/display/BeJUG/Scala+Dojo) organized by BeJUG, we never had an experienced facilitator around to guide us.
+While I attended [coding](https://web.archive.org/web/20130226055914/http://www.bejug.org/confluenceBeJUG/display/BeJUG/JSR-311+REST+Dojo)
+[dojos](https://web.archive.org/web/20130225122612/http://www.bejug.org/confluenceBeJUG/display/BeJUG/Scala+Dojo) organized by BeJUG,
+we never had an experienced facilitator around to guide us.
 We had lots fo fun, we ended up producing code and even achieving results, but not necessarily improving coding practices while doing so.
 And from what I got out of the description, some of these exercises target more the craft than the result.
 
