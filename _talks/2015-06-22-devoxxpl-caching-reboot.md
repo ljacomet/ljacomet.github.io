@@ -3,7 +3,7 @@ title: Caching reboot&#58; javax.cache & Ehcache 3
 recording: https://www.youtube.com/watch?v=6kW7tcqvsVs
 slides: https://www.slideshare.net/LouisJacomet/caching-reboot-javaxcache-ehcache-3-61757652
 event-name: Devoxx Poland
-event-url: http://devoxx.pl/
+event-url: https://devoxx.pl/
 ---
 
 After more than 10 years, Java finally has a standard caching API as delivered by JSR-107. In parallel, Ehcache - the well known and over 10 years old caching library - is getting a reboot.

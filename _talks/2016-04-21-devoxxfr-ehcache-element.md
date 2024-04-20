@@ -2,7 +2,7 @@
 title: Ehcache hors de son Element
 recording: https://www.youtube.com/watch?v=RSpgLZ1U75g
 event-name: Devoxx France
-event-url: http://devoxx.fr/
+event-url: https://devoxx.fr/
 ---
 
 Ehcache 3 offre des changements majeurs d’API. Outre la compatibilité JSR-107, tout a été revu pour en faire une librairie de cache qui sert au mieux les utilisateurs tout en continuant d’offrir des options de configuration très avancées.

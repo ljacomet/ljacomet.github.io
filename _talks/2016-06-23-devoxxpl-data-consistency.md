@@ -3,7 +3,7 @@ title: Data consistency&#58; Analyse, understand and decide
 recording: https://www.youtube.com/watch?v=t7nMNy4YoVY
 slides: https://www.slideshare.net/LouisJacomet/data-consistency-analyse-understand-and-decide
 event-name: Devoxx Poland
-event-url: http://devoxx.pl/
+event-url: https://devoxx.pl/
 ---
 
 Most applications handle some form of data. And quickly you end up duplicating this data … whether going from a JPA entity to a DTO, offering a caching layer on top of your services or even because the database is replicated and clustered.

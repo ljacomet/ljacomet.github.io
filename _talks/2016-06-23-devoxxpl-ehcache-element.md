@@ -2,7 +2,7 @@
 title: Ehcache out of his Element
 recording: https://www.youtube.com/watch?v=RSpgLZ1U75g
 event-name: Devoxx Poland
-event-url: http://devoxx.pl/
+event-url: https://devoxx.pl/
 ---
 
 Ehcache 3 offers major API changes. Apart from the JSR-107 compatibility, everything has been updated to make it a library convenient to use while offering advanced configuration options.
