@@ -3,6 +3,7 @@ title: Cap sur Gradle 9
 co-speaker: Paul Merlin
 repository: https://github.com/ljacomet/devoxxfr-gradle9
 slides: https://jacomet.dev/devoxxfr-gradle9
+recording: https://www.youtube.com/watch?v=Iuf5pq-_RXE
 event-name: Devoxx France
 event-url: https://www.devoxx.fr/schedule/talk/?id=40282
 ---

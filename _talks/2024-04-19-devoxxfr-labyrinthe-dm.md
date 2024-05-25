@@ -2,6 +2,7 @@
 title: Naviguer dans le Labyrinthe de la Gestion de Dépendances
 co-speaker: Hervé Boutemy
 slides: assets/files/devoxxfr-labyrinthe-dm.pdf
+recording: https://www.youtube.com/watch?v=2PsJCRBza6Y
 event-name: Devoxx France
 event-url: https://www.devoxx.fr/schedule/talk/?id=44907
 ---
