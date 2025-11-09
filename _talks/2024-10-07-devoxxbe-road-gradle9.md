@@ -1,0 +1,27 @@
+---
+title: "The road to Gradle 9 "
+co-speaker: Alex Semin
+slides: https://jacomet.dev/devoxxbe-gradle9/
+recording: https://www.youtube.com/watch?v=9CTNORD_Dx4
+event-name: Devoxx Belgium
+event-url: https://devoxx.be
+---
+
+While the Gradle Build Tool has been around for a while, it continuously evolves.
+The next major version, Gradle 9, brings a couple of key features that will impact users and the ecosystem.
+
+For users, the focus is on two tracks: scalability and comprehensibility.
+For scalability, the Gradle team aims to deliver features that make builds as fast as possible, even for massive projects.
+For comprehensibility, it is all about making Gradle easier to adopt and use for teams of all sizes and skill levels.
+
+Offering all of the above will require the plugin ecosystem to match the updated Gradle APIs and patterns, including stronger constraints, which are required to continue offering the strongest reliability guarantees.
+
+This session will cover topics like:
+
+* Continued investment in configuration caching,
+* Upcoming isolated projects feature,
+* Higher level modeling of software projects,
+* Separation of concerns for build users and build authors
+
+All of these topics will be illustrated by released features available in the Gradle 8.x line and by looking at what is coming in 9.0 and beyond.
+Both build users and plugin authors will learn what to do now and tomorrow to leverage the most of Gradle 9.
